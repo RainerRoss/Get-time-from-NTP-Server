@@ -20,3 +20,5 @@ Normally I would have assumed to get the data via a GET or POST request but unfo
 - call     program GETNTPTIME
 ```
 
+## Logfile result
+![Screenshot 2025-05-26 231447](https://github.com/user-attachments/assets/2ce86a1d-4dca-47fc-8896-ceb1bb22be96)
