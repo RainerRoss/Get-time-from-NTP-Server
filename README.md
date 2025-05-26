@@ -22,4 +22,4 @@ Normally I would have assumed to get the data via a GET or POST request but unfo
 
 ## Logfile result
 
-![Screenshot 2025-05-26 231447](https://github.com/user-attachments/assets/73e7baab-7b9b-485a-bc45-b30f1a0bafab)
+![Uploading Screenshot 2025-05-26 232035.png…]()
