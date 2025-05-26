@@ -11,7 +11,7 @@ Normally I would have assumed to get the data via a GET or POST request but unfo
 ## Manual install
 
 ```
-- download HTPLOG00.SQL
+- download NTPLOG00.SQL
 - download GETNTPTIME.SQLRPGLE
 
 - create   table NTPLOG00 
