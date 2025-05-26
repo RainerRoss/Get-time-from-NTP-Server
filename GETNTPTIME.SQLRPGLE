@@ -1,7 +1,7 @@
          ctl-opt main(main) dftactgrp(*no);
       //------------------------------------------------------------------//
       //                                                                  //
-      // Test - Get Time from NTP-Server ptbtime1.ptb.de                  //
+      // Get Time from NTP-Server                                         //
       //                                                                  //
       //-----------------                                                 //
       // R.Ross 05.2025 *                                                 //
