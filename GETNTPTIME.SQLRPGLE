@@ -157,7 +157,7 @@
          dcl-s   UTCSeconds  float(08);
 
       //------------------------------------------------------------------//
-      // Array Programm Status                                            //
+      // Array Program Status                                             //
       //------------------------------------------------------------------//
 
          dcl-ds DsPgms       psds qualified;
