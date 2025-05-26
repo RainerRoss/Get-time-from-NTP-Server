@@ -10,10 +10,10 @@ Normally I would have assumed to get the data via a GET or POST request but unfo
 
 ## Manual install
 
-download HTPLOG00.SQL and GETNTPTIME.SQLRPGLE
-
-create table NTPLOG00 
-create program GETNTPTIME 
-call   program GETNTPTIME
-
+```
+- download HTPLOG00.SQL and GETNTPTIME.SQLRPGLE
+- create table NTPLOG00 
+- create program GETNTPTIME 
+- call   program GETNTPTIME
+```
 
