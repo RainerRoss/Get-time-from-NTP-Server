@@ -23,3 +23,7 @@ Normally I would have assumed to get the data via a GET or POST request but unfo
 ## Logfile result
 
 ![Screenshot 2025-05-26 232035](https://github.com/user-attachments/assets/497df5bc-848a-4136-a8a4-b7d65d01e419)
+
+## Dsply messages
+
+![Screenshot 2025-05-26 232516](https://github.com/user-attachments/assets/6c14548c-4916-4e58-9f6a-3fd269cfe47c)
