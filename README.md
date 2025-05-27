@@ -6,7 +6,7 @@ There are requirements where the exact time is needed from the NTP server for IB
 
 ## How does it work
 
-Normally I would have assumed to get the data via a GET or POST request but unfortunately this does not work for NTP servers because they only communicate via sockets. At this point I would like to thank <strong>Scott Klement</strong> https://www.scottklement.com/rpg/socktut/tutorial.html, whose socket tutorial has served me very well.
+Normally I would have assumed to get the data via a GET or POST request but unfortunately this does not work for NTP servers because they only communicate via sockets. At this point I would like to thank <strong>Scott Klement</strong> https://www.scottklement.com/rpg/socktut/tutorial.html whose socket tutorial has served me very well.
 
 ## Manual install
 
