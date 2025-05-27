@@ -2,7 +2,7 @@
 
 ## The idea
 
-There are requirements where the exact time is needed from the NTP server for the IBM i. Unfortunately I have not found a webservice for this and have decided to write a RPG program to get the time from an NTP service.
+There are requirements where the exact time is needed from the NTP server for the IBM i applications. Unfortunately I have not found a webservice for this and have decided to write a RPG program to get the time from an NTP service.
 
 ## How does it work
 
